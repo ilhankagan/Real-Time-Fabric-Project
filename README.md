@@ -27,7 +27,6 @@ This project simulates real-time taxi trip data using Microsoft Fabric and organ
 
 ## 📁 How to Navigate This Repo
 - `notebooks/`: PySpark notebooks for each layer
-- `eventstream/`, `eventhouse/`, `activator/`: Configs and screenshots
 - `summary.md`: Step-by-step explanation of what was done
 
 ## 🚀 Getting Started
